@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gudolv, currently studying a degree in cyber security 
+- 👋 Hi, I’m @Gudolv, currently studying a Masters degree in Software Enginering
 - 👀 I’m interested in all things programming and linux
 - 🌱 I’m currently learning java and python, planing to learn Rust, C# and Kotlin
 - 💞️ I’m looking to collaborate on ...
