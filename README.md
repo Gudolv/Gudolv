@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gudolv, currently studying a Masters degree in Software Enginering
+- 👋 Hi, I’m @Gudolv
 - 👀 I’m interested in all things programming and linux
-- 🌱 I’m currently learning java and python, planing to learn Rust, C# and Kotlin
+- 🌱 I’m currently learning everything -__-
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
